@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708962734199",
+    "firebase_url": "https://foodrush-a13a4.firebaseio.com",
+    "project_id": "foodrush-a13a4",
+    "storage_bucket": "foodrush-a13a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708962734199:android:74278078765864b5",
+        "android_client_info": {
+          "package_name": "com.example.freetime.foodrush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708962734199-isom1lk0i5mckc16gunq7putp18s1tlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freetime.foodrush",
+            "certificate_hash": "b5d080a2eab18e854442b701bfbd7e8819ac5fbd"
+          }
+        },
+        {
+          "client_id": "708962734199-5si94scemm67epr8dr1lonjghepg26ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnvZ33tMyWmY2FZZgzmErdey5dsha-Pu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708962734199-5si94scemm67epr8dr1lonjghepg26ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
